@@ -6,7 +6,7 @@ body{
 }
 h1{
   font-size: 5.62rem;
-  margin: 10px auto 0px auto;
+  margin: 70px auto 0px auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
 }
@@ -48,7 +48,7 @@ a:hover{
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 90px;
+  padding-top: 100px;
 }
 .middle-container {
   padding-top: 70px;
@@ -68,7 +68,7 @@ a:hover{
 }
 .top-cloud{
   position: absolute;
-  right: 250px;
+  right: 20%;
   top: 50px;
 }
 .footer-link{
